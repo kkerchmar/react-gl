@@ -1,0 +1,20 @@
+{
+  "name": "@kkerchmar/react-gl",
+  "description": "A library of useful react components and hooks for working with WebGL in a react application.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kkerchmar/react-gl",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "dist/index.d.ts",
+  "author": "Kelsie Kerchmar",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.36",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
